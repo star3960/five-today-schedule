@@ -1,6 +1,7 @@
 # 5늘의 일정
 
 > watsonx.ai 기반 대학생 맞춤형 AI 학업 스케줄 도우미
+<img width="2560" height="1414" alt="Image" src="https://github.com/user-attachments/assets/26da4ed2-a2de-497b-ad7d-a692feceeef7" />
 
 ## 📌 프로젝트 소개
 
